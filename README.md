@@ -4,6 +4,12 @@
 
 Voice-powered GitHub code editor built for the Gemini 3.1 Hackathon. Edit your codebase with just your voice — no keyboard needed.
 
+## Screenshot
+
+<p align="center">
+  <img src="screenshot.png" alt="Voice Coder Screenshot" width="300" />
+</p>
+
 ## Demo
 
 1. Select a GitHub repository
